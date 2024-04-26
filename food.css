@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.section7 a{
+    text-decoration: none;
+    color: #1E3050;
+    text-align: center;
+}
+.section7 i:hover{
+    background-color: red;
+}
+.section7 .icons{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.section7 .i1{
+    position: relative;
+    left: 450px;
+}
+.section7 .i2{
+    position: relative;
+    left: 232px;
+}
+.section7 .i3{
+    position: relative;
+    left: 10px;
+}
+.section7 .i4{
+    position: relative;
+    right: 210px;
+}
+.section7 .i5{
+    position: relative;
+    right: 420px;
+}
+.fast{
+    position: relative;
+    right: -76px;
+}
+.para{
+    position: relative;
+    right: -186px;
+}
+.bx{
+position: relative;
+left: -95px;
+}
